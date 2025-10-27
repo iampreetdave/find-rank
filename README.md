@@ -1,3 +1,4 @@
+# Find-Rank
 # 📊 Student Marks Analyzer
 
 A powerful Streamlit web application that extracts student marks from multiple PDF mark sheets, calculates cumulative performance, and generates comprehensive rankings and analytics.
@@ -185,8 +186,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@iampreetdave-max](https://github.com/iampreetdave-max)
+- LinkedIn: [iampreetdave](https://www.linkedin.com/in/iampreetdave/)
 
 ## 🙏 Acknowledgments
 
@@ -194,16 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PDF processing powered by [pdfplumber](https://github.com/jsvine/pdfplumber)
 - Data manipulation with [Pandas](https://pandas.pydata.org/)
 
-## 📸 Screenshots
-
-### Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Rankings View
-![Rankings](screenshots/rankings.png)
-
-### Visualizations
-![Charts](screenshots/charts.png)
 
 ---
 
