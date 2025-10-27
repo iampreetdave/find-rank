@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@iampreetdave-max](https://github.com/iampreetdave-max)
 - LinkedIn: [iampreetdave](https://www.linkedin.com/in/iampreetdave/)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/)
 - PDF processing powered by [pdfplumber](https://github.com/jsvine/pdfplumber)
